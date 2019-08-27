@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoSensor", "AutoSensor\AutoSensor.csproj", "{9BC18615-A78F-49E2-B281-1F306D9BDE96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BC18615-A78F-49E2-B281-1F306D9BDE96}.Debug|x86.ActiveCfg = Debug|x86
+		{9BC18615-A78F-49E2-B281-1F306D9BDE96}.Debug|x86.Build.0 = Debug|x86
+		{9BC18615-A78F-49E2-B281-1F306D9BDE96}.Release|x86.ActiveCfg = Release|x86
+		{9BC18615-A78F-49E2-B281-1F306D9BDE96}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B61713B-B137-436C-97F5-FC6610F98CBF}
+	EndGlobalSection
+EndGlobal
